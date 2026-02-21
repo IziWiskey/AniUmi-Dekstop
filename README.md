@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-10/11-0078D6?style=flat-square&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Версия-1.1.9-brightgreen?style=flat-square">
+  <img src="https://img.shields.io/badge/Версия-1.2.0-brightgreen?style=flat-square">
 </p>
 
 ---
