@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>ANiUmi - клиент для просмотра аниме</h1>
+  <h1>AniUmi - клиент для просмотра аниме</h1>
 </p>
 
 <p align="center"> 
