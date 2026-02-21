@@ -35,3 +35,10 @@
 1. Скачайте последнюю версию в [Releases](https://github.com/IziWiskey/AniUmi-Dekstop/releases)
 2. Запустите и установите `AniUmi-Setup-*.exe`
 3. Готово!
+
+### Для разработки:
+```bash
+git clone https://github.com/IziWiskey/AniUmi-Dekstop.git
+cd AniUmi-Dekstop
+npm install
+npm start
